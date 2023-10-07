@@ -1,2 +1,5 @@
 oi!
-
+git add . #Adicionar alterações para commit
+git commit -m "" #Commitar
+git push #Enviar do local pro remoto
+git pull #Enviar do remoto pro local
